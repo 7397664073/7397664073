@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7397664073
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning Html & Css
+- 👀 I’m interested in
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
